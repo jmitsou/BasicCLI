@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Welcome to Gabe's CLI!\n");
+        System.out.println("Welcome to Jeff's CLI!");
         CLI input = new CLI();
         input.menuSelection();
     }
