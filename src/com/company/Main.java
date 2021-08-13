@@ -7,6 +7,5 @@ public class Main {
         System.out.println("Welcome to Gabe's CLI!\n");
         CLI input = new CLI();
         input.menuSelection();
-
     }
 }
